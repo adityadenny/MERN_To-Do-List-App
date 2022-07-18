@@ -1,2 +1,2 @@
-# wegodev-mern-todo
-Repo for wegodev course - MERN Todo App with TypeScript
+# mern-to-do-app
+MERN Todo App with TypeScript
