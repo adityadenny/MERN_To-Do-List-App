@@ -13,4 +13,4 @@ app.get('/about', (req: Request, res: Response) => {
 
 app.listen(PORT, () => {
     console.info(`App is listening at http://localhost:${PORT}`)
-}
+})
